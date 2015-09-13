@@ -1,0 +1,58 @@
+{
+  "name": "node-starter",
+  "version": "1.0.0",
+  "description": "Automatically starts your Web app after build is over",
+  "main": "index.js",
+  "directories": {
+    "example": "example"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rannn505/node-starter.git"
+  },
+  "keywords": [
+    "node-starter",
+    "starter",
+    "build",
+    "start",
+    "after",
+    "build",
+    "build",
+    "system",
+    "gulp",
+    "grunt",
+    "post",
+    "build",
+    "Automatic",
+    "start",
+    "open",
+    "node-open",
+    "open",
+    "build",
+    "build",
+    "start",
+    "kickoff",
+    "node-kickoff",
+    "node-kick",
+    "kick",
+    "app",
+    "web",
+    "app",
+    "node-webstart"
+  ],
+  "author": "Ran Cohen <rannn505@outlook.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/rannn505/node-starter/issues"
+  },
+  "homepage": "https://github.com/rannn505/node-starter#readme",
+  "dependencies": {
+    "colors": "^1.1.2",
+    "open": "0.0.5",
+    "ps-node": "0.0.4"
+  },
+  "devDependencies": {}
+}
