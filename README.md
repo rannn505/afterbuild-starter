@@ -1,22 +1,22 @@
-Node-Starter
+AfterBuild-Starter
 ===
 
 <div>
-<p> <img height="50" width="50" src="https://raw.githubusercontent.com/rannn505/node-starter/master/assets/node-starter.png"> Automatically starts your Web app after build is over </p>
+<p> <img height="50" width="50" src="https://raw.githubusercontent.com/rannn505/afterbuild-starter/master/assets/node-starter.png"> Automatically starts your Web app after build is over </p>
 </div>
 
-[![Version npm](https://img.shields.io/npm/v/node-starter.svg?style=flat-square)](https://www.npmjs.com/package/node-starter)[![NPM Downloads](https://img.shields.io/npm/dt/node-starter.svg?style=flat-square)](https://www.npmjs.com/package/node-starter)[![Dependencies](https://img.shields.io/david/rannn505/node-starter.svg?style=flat-square)](https://david-dm.org/rannn505/node-starter)
+[![Version npm](https://img.shields.io/npm/v/afterbuild-starter.svg?style=flat-square)](https://www.npmjs.com/package/afterbuild-starter)[![NPM Downloads](https://img.shields.io/npm/dt/afterbuild-starter.svg?style=flat-square)](https://www.npmjs.com/package/afterbuild-starter)[![Dependencies](https://img.shields.io/david/rannn505/afterbuild-starter.svg?style=flat-square)](https://david-dm.org/rannn505/afterbuild-starter)
 
 
 ## Installation
 
 ```bash
-$ npm install node-starter
+$ npm install afterbuild-starter
 ```
 
-## What's node-starter?
+## What's afterbuild-starter?
 
-After build process is over, node-starter automatically:
+When the build process is over, afterbuild-starter will automatically:
 - start a node process with your Web app
 - open the browser with the url of your site
 
@@ -60,5 +60,5 @@ grunt.registerTask('default', ['yourTask1', 'yourTask2', 'starter']);
 
 
 
-[![Analytics](https://ga-beacon.appspot.com/UA-67540608-1/rannn505/node-starter?pixel)](https://github.com/igrigorik/ga-beacon)
+[![Analytics](https://ga-beacon.appspot.com/UA-67540608-1/rannn505/afterbuild-starter?pixel)](https://github.com/igrigorik/ga-beacon)
 
