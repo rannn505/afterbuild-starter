@@ -2,7 +2,7 @@ AfterBuild-Starter
 ===
 
 <div>
-<p> <img height="50" width="50" src="https://raw.githubusercontent.com/rannn505/afterbuild-starter/master/assets/node-starter.png"> Automatically starts your Web app after build is over </p>
+<p> <img height="50" width="50" src="https://raw.githubusercontent.com/rannn505/afterbuild-starter/master/assets/afterbuild-starter.png"> Automatically starts your Web app after build is over </p>
 </div>
 
 [![Version npm](https://img.shields.io/npm/v/afterbuild-starter.svg?style=flat-square)](https://www.npmjs.com/package/afterbuild-starter)[![NPM Downloads](https://img.shields.io/npm/dt/afterbuild-starter.svg?style=flat-square)](https://www.npmjs.com/package/afterbuild-starter)[![Dependencies](https://img.shields.io/david/rannn505/afterbuild-starter.svg?style=flat-square)](https://david-dm.org/rannn505/afterbuild-starter)

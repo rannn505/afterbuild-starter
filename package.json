@@ -1,5 +1,5 @@
 {
-  "name": "node-starter",
+  "name": "afterbuild-starter",
   "version": "1.0.0",
   "description": "Automatically starts your Web app after build is over",
   "main": "index.js",
@@ -11,9 +11,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/rannn505/node-starter.git"
+    "url": "git+https://github.com/rannn505/afterbuild-starter.git"
   },
   "keywords": [
+    "afterbuild-starter",
+    "starter",
+    "afterbuild",
     "node-starter",
     "starter",
     "build",
@@ -46,9 +49,9 @@
   "author": "Ran Cohen <rannn505@outlook.com>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/rannn505/node-starter/issues"
+    "url": "https://github.com/rannn505/afterbuild-starter/issues"
   },
-  "homepage": "https://github.com/rannn505/node-starter#readme",
+  "homepage": "https://github.com/rannn505/afterbuild-starter#readme",
   "dependencies": {
     "colors": "^1.1.2",
     "open": "0.0.5",

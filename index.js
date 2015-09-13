@@ -7,7 +7,7 @@ var proc = require('child_process');
 var ps = require('ps-node');
 var colors = require('colors');
 
-const MODULE_NAME = 'node-starter';
+const MODULE_NAME = 'afterbuild-starter';
 
 
 function killer(args,cb){
