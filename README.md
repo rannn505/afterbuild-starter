@@ -17,7 +17,8 @@ $ npm install afterbuild-starter
 ## What's afterbuild-starter?
 
 When the build process is over, afterbuild-starter will automatically:
-- start a node process with your Web app
+- stop the node process that runs your Web app (if exists)
+- start a new node process with your Web app
 - open the browser with the url of your site
 
 ## Setting up
@@ -52,6 +53,19 @@ grunt.registerTask('starter', function() {
 });
 
 grunt.registerTask('default', ['yourTask1', 'yourTask2', 'starter']);
+```
+
+####  With `Pint.js`:
+
+```javascript
+var starter = require('node-starter');
+
+module.exports = {
+  name: 'default',
+  finalize: function () {
+     starter({path:"Path/To/Your/main.js",url:"URL/to/your/site"});
+  }
+};
 ```
 
 ## License

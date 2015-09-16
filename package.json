@@ -1,6 +1,6 @@
 {
   "name": "afterbuild-starter",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Automatically starts your Web app after build is over",
   "main": "index.js",
   "directories": {
@@ -44,7 +44,15 @@
     "app",
     "web",
     "app",
-    "node-webstart"
+    "node-webstart",
+    "gulpplugin",
+    "gulp-plugin",
+    "gruntplugin",
+    "grunt-plugin",
+    "pintplugin",
+    "pint-plugin",
+    "plugin",
+    "execution"
   ],
   "author": "Ran Cohen <rannn505@outlook.com>",
   "license": "MIT",
