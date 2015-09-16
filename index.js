@@ -56,7 +56,10 @@ function starter(obj) {
 
         node = proc.spawn("node",[pathApp],{detached: true});
         node.unref();
-        process.exit(0);
+
+        setTimeout(function(){
+            process.exit(0);
+        },7777);
     });
     open(url);
 }
